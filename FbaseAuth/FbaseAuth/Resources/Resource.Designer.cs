@@ -2291,11 +2291,11 @@ namespace FbaseAuth
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f0a00ab
-			public const int SignUpEmail = 2131361963;
+			// aapt resource value: 0x7f0a00b1
+			public const int SignUpEmail = 2131361969;
 			
-			// aapt resource value: 0x7f0a0095
-			public const int action0 = 2131361941;
+			// aapt resource value: 0x7f0a009b
+			public const int action0 = 2131361947;
 			
 			// aapt resource value: 0x7f0a006b
 			public const int action_bar = 2131361899;
@@ -2318,17 +2318,17 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0048
 			public const int action_bar_title = 2131361864;
 			
-			// aapt resource value: 0x7f0a0092
-			public const int action_container = 2131361938;
+			// aapt resource value: 0x7f0a0098
+			public const int action_container = 2131361944;
 			
 			// aapt resource value: 0x7f0a006c
 			public const int action_context_bar = 2131361900;
 			
-			// aapt resource value: 0x7f0a0099
-			public const int action_divider = 2131361945;
+			// aapt resource value: 0x7f0a009f
+			public const int action_divider = 2131361951;
 			
-			// aapt resource value: 0x7f0a0093
-			public const int action_image = 2131361939;
+			// aapt resource value: 0x7f0a0099
+			public const int action_image = 2131361945;
 			
 			// aapt resource value: 0x7f0a0003
 			public const int action_menu_divider = 2131361795;
@@ -2345,11 +2345,11 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a004a
 			public const int action_mode_close_button = 2131361866;
 			
-			// aapt resource value: 0x7f0a0094
-			public const int action_text = 2131361940;
+			// aapt resource value: 0x7f0a009a
+			public const int action_text = 2131361946;
 			
-			// aapt resource value: 0x7f0a00a2
-			public const int actions = 2131361954;
+			// aapt resource value: 0x7f0a00a8
+			public const int actions = 2131361960;
 			
 			// aapt resource value: 0x7f0a004b
 			public const int activity_chooser_view_content = 2131361867;
@@ -2381,17 +2381,17 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0030
 			public const int bottom = 2131361840;
 			
-			// aapt resource value: 0x7f0a008e
-			public const int btnLogin = 2131361934;
+			// aapt resource value: 0x7f0a0094
+			public const int btnLogin = 2131361940;
 			
-			// aapt resource value: 0x7f0a00ae
-			public const int btnSignUp = 2131361966;
+			// aapt resource value: 0x7f0a00b4
+			public const int btnSignUp = 2131361972;
 			
 			// aapt resource value: 0x7f0a0052
 			public const int buttonPanel = 2131361874;
 			
-			// aapt resource value: 0x7f0a0096
-			public const int cancel_action = 2131361942;
+			// aapt resource value: 0x7f0a009c
+			public const int cancel_action = 2131361948;
 			
 			// aapt resource value: 0x7f0a0037
 			public const int center = 2131361847;
@@ -2402,11 +2402,14 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0039
 			public const int center_vertical = 2131361849;
 			
+			// aapt resource value: 0x7f0a007f
+			public const int changepass = 2131361919;
+			
 			// aapt resource value: 0x7f0a0062
 			public const int checkbox = 2131361890;
 			
-			// aapt resource value: 0x7f0a009e
-			public const int chronometer = 2131361950;
+			// aapt resource value: 0x7f0a00a4
+			public const int chronometer = 2131361956;
 			
 			// aapt resource value: 0x7f0a0040
 			public const int clip_horizontal = 2131361856;
@@ -2417,14 +2420,14 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a002c
 			public const int collapseActionView = 2131361836;
 			
-			// aapt resource value: 0x7f0a007c
-			public const int container = 2131361916;
+			// aapt resource value: 0x7f0a0083
+			public const int container = 2131361923;
 			
 			// aapt resource value: 0x7f0a0055
 			public const int contentPanel = 2131361877;
 			
-			// aapt resource value: 0x7f0a007d
-			public const int coordinator = 2131361917;
+			// aapt resource value: 0x7f0a0084
+			public const int coordinator = 2131361924;
 			
 			// aapt resource value: 0x7f0a005c
 			public const int custom = 2131361884;
@@ -2435,26 +2438,35 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0016
 			public const int dark = 2131361814;
 			
+			// aapt resource value: 0x7f0a007c
+			public const int dashboardWelcome = 2131361916;
+			
+			// aapt resource value: 0x7f0a0080
+			public const int dbLogout = 2131361920;
+			
+			// aapt resource value: 0x7f0a007d
+			public const int dbNewpassword = 2131361917;
+			
 			// aapt resource value: 0x7f0a0069
 			public const int decor_content_parent = 2131361897;
 			
 			// aapt resource value: 0x7f0a004e
 			public const int default_activity_button = 2131361870;
 			
-			// aapt resource value: 0x7f0a007f
-			public const int design_bottom_sheet = 2131361919;
-			
 			// aapt resource value: 0x7f0a0086
-			public const int design_menu_item_action_area = 2131361926;
+			public const int design_bottom_sheet = 2131361926;
 			
-			// aapt resource value: 0x7f0a0085
-			public const int design_menu_item_action_area_stub = 2131361925;
+			// aapt resource value: 0x7f0a008d
+			public const int design_menu_item_action_area = 2131361933;
 			
-			// aapt resource value: 0x7f0a0084
-			public const int design_menu_item_text = 2131361924;
+			// aapt resource value: 0x7f0a008c
+			public const int design_menu_item_action_area_stub = 2131361932;
 			
-			// aapt resource value: 0x7f0a0083
-			public const int design_navigation_view = 2131361923;
+			// aapt resource value: 0x7f0a008b
+			public const int design_menu_item_text = 2131361931;
+			
+			// aapt resource value: 0x7f0a008a
+			public const int design_navigation_view = 2131361930;
 			
 			// aapt resource value: 0x7f0a001b
 			public const int disableHome = 2131361819;
@@ -2465,8 +2477,8 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0029
 			public const int end = 2131361833;
 			
-			// aapt resource value: 0x7f0a00a8
-			public const int end_padder = 2131361960;
+			// aapt resource value: 0x7f0a00ae
+			public const int end_padder = 2131361966;
 			
 			// aapt resource value: 0x7f0a0032
 			public const int enterAlways = 2131361842;
@@ -2495,8 +2507,8 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0046
 			public const int @fixed = 2131361862;
 			
-			// aapt resource value: 0x7f0a008f
-			public const int forgotpass = 2131361935;
+			// aapt resource value: 0x7f0a0095
+			public const int forgotpass = 2131361941;
 			
 			// aapt resource value: 0x7f0a0005
 			public const int home = 2131361797;
@@ -2507,8 +2519,8 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0050
 			public const int icon = 2131361872;
 			
-			// aapt resource value: 0x7f0a00a3
-			public const int icon_group = 2131361955;
+			// aapt resource value: 0x7f0a00a9
+			public const int icon_group = 2131361961;
 			
 			// aapt resource value: 0x7f0a0012
 			public const int icon_only = 2131361810;
@@ -2519,17 +2531,17 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a004d
 			public const int image = 2131361869;
 			
-			// aapt resource value: 0x7f0a0089
-			public const int imgLogo = 2131361929;
+			// aapt resource value: 0x7f0a007b
+			public const int imgLogo = 2131361915;
 			
-			// aapt resource value: 0x7f0a009f
-			public const int info = 2131361951;
+			// aapt resource value: 0x7f0a00a5
+			public const int info = 2131361957;
 			
 			// aapt resource value: 0x7f0a0000
 			public const int item_touch_helper_previous_elevation = 2131361792;
 			
-			// aapt resource value: 0x7f0a007b
-			public const int largeLabel = 2131361915;
+			// aapt resource value: 0x7f0a0082
+			public const int largeLabel = 2131361922;
 			
 			// aapt resource value: 0x7f0a003b
 			public const int left = 2131361851;
@@ -2537,14 +2549,14 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0017
 			public const int light = 2131361815;
 			
-			// aapt resource value: 0x7f0a00a4
-			public const int line1 = 2131361956;
+			// aapt resource value: 0x7f0a00aa
+			public const int line1 = 2131361962;
 			
-			// aapt resource value: 0x7f0a00a6
-			public const int line3 = 2131361958;
+			// aapt resource value: 0x7f0a00ac
+			public const int line3 = 2131361964;
 			
-			// aapt resource value: 0x7f0a0090
-			public const int linearMain = 2131361936;
+			// aapt resource value: 0x7f0a0096
+			public const int linearMain = 2131361942;
 			
 			// aapt resource value: 0x7f0a0018
 			public const int listMode = 2131361816;
@@ -2552,23 +2564,23 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a004f
 			public const int list_item = 2131361871;
 			
-			// aapt resource value: 0x7f0a008b
-			public const int loginEmail = 2131361931;
+			// aapt resource value: 0x7f0a0091
+			public const int loginEmail = 2131361937;
 			
-			// aapt resource value: 0x7f0a008a
-			public const int loginInputEmail = 2131361930;
+			// aapt resource value: 0x7f0a0090
+			public const int loginInputEmail = 2131361936;
 			
-			// aapt resource value: 0x7f0a008c
-			public const int loginInputPassword = 2131361932;
+			// aapt resource value: 0x7f0a0092
+			public const int loginInputPassword = 2131361938;
 			
-			// aapt resource value: 0x7f0a008d
-			public const int loginPassword = 2131361933;
+			// aapt resource value: 0x7f0a0093
+			public const int loginPassword = 2131361939;
 			
-			// aapt resource value: 0x7f0a00b2
-			public const int masked = 2131361970;
+			// aapt resource value: 0x7f0a00b8
+			public const int masked = 2131361976;
 			
-			// aapt resource value: 0x7f0a0098
-			public const int media_actions = 2131361944;
+			// aapt resource value: 0x7f0a009e
+			public const int media_actions = 2131361950;
 			
 			// aapt resource value: 0x7f0a002a
 			public const int middle = 2131361834;
@@ -2579,11 +2591,14 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0021
 			public const int multiply = 2131361825;
 			
-			// aapt resource value: 0x7f0a0082
-			public const int navigation_header_container = 2131361922;
+			// aapt resource value: 0x7f0a0089
+			public const int navigation_header_container = 2131361929;
 			
 			// aapt resource value: 0x7f0a002e
 			public const int never = 2131361838;
+			
+			// aapt resource value: 0x7f0a007e
+			public const int newpas = 2131361918;
 			
 			// aapt resource value: 0x7f0a0011
 			public const int none = 2131361809;
@@ -2591,14 +2606,14 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0019
 			public const int normal = 2131361817;
 			
+			// aapt resource value: 0x7f0a00a7
+			public const int notification_background = 2131361959;
+			
 			// aapt resource value: 0x7f0a00a1
-			public const int notification_background = 2131361953;
+			public const int notification_main_column = 2131361953;
 			
-			// aapt resource value: 0x7f0a009b
-			public const int notification_main_column = 2131361947;
-			
-			// aapt resource value: 0x7f0a009a
-			public const int notification_main_column_container = 2131361946;
+			// aapt resource value: 0x7f0a00a0
+			public const int notification_main_column_container = 2131361952;
 			
 			// aapt resource value: 0x7f0a003e
 			public const int parallax = 2131361854;
@@ -2618,20 +2633,23 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0064
 			public const int radio = 2131361892;
 			
-			// aapt resource value: 0x7f0a0088
-			public const int relativeMain = 2131361928;
+			// aapt resource value: 0x7f0a007a
+			public const int relativeDashboard = 2131361914;
 			
-			// aapt resource value: 0x7f0a00a9
-			public const int relativeSignUp = 2131361961;
+			// aapt resource value: 0x7f0a008f
+			public const int relativeMain = 2131361935;
+			
+			// aapt resource value: 0x7f0a00af
+			public const int relativeSignUp = 2131361967;
 			
 			// aapt resource value: 0x7f0a003c
 			public const int right = 2131361852;
 			
-			// aapt resource value: 0x7f0a00a0
-			public const int right_icon = 2131361952;
+			// aapt resource value: 0x7f0a00a6
+			public const int right_icon = 2131361958;
 			
-			// aapt resource value: 0x7f0a009c
-			public const int right_side = 2131361948;
+			// aapt resource value: 0x7f0a00a2
+			public const int right_side = 2131361954;
 			
 			// aapt resource value: 0x7f0a0022
 			public const int screen = 2131361826;
@@ -2696,26 +2714,26 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a001f
 			public const int showTitle = 2131361823;
 			
-			// aapt resource value: 0x7f0a0091
-			public const int signUp = 2131361937;
+			// aapt resource value: 0x7f0a0097
+			public const int signUp = 2131361943;
 			
-			// aapt resource value: 0x7f0a00aa
-			public const int signUpInputEmail = 2131361962;
+			// aapt resource value: 0x7f0a00b0
+			public const int signUpInputEmail = 2131361968;
 			
-			// aapt resource value: 0x7f0a00ac
-			public const int signUpInputPassword = 2131361964;
+			// aapt resource value: 0x7f0a00b2
+			public const int signUpInputPassword = 2131361970;
 			
-			// aapt resource value: 0x7f0a00ad
-			public const int signUpPassword = 2131361965;
-			
-			// aapt resource value: 0x7f0a007a
-			public const int smallLabel = 2131361914;
+			// aapt resource value: 0x7f0a00b3
+			public const int signUpPassword = 2131361971;
 			
 			// aapt resource value: 0x7f0a0081
-			public const int snackbar_action = 2131361921;
+			public const int smallLabel = 2131361921;
 			
-			// aapt resource value: 0x7f0a0080
-			public const int snackbar_text = 2131361920;
+			// aapt resource value: 0x7f0a0088
+			public const int snackbar_action = 2131361928;
+			
+			// aapt resource value: 0x7f0a0087
+			public const int snackbar_text = 2131361927;
 			
 			// aapt resource value: 0x7f0a0036
 			public const int snap = 2131361846;
@@ -2741,8 +2759,8 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a003d
 			public const int start = 2131361853;
 			
-			// aapt resource value: 0x7f0a0097
-			public const int status_bar_latest_event_content = 2131361943;
+			// aapt resource value: 0x7f0a009d
+			public const int status_bar_latest_event_content = 2131361949;
 			
 			// aapt resource value: 0x7f0a0065
 			public const int submenuarrow = 2131361893;
@@ -2753,11 +2771,11 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a001a
 			public const int tabMode = 2131361818;
 			
-			// aapt resource value: 0x7f0a00a7
-			public const int text = 2131361959;
+			// aapt resource value: 0x7f0a00ad
+			public const int text = 2131361965;
 			
-			// aapt resource value: 0x7f0a00a5
-			public const int text2 = 2131361957;
+			// aapt resource value: 0x7f0a00ab
+			public const int text2 = 2131361963;
 			
 			// aapt resource value: 0x7f0a0059
 			public const int textSpacerNoButtons = 2131361881;
@@ -2765,8 +2783,8 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a0058
 			public const int textSpacerNoTitle = 2131361880;
 			
-			// aapt resource value: 0x7f0a0087
-			public const int text_input_password_toggle = 2131361927;
+			// aapt resource value: 0x7f0a008e
+			public const int text_input_password_toggle = 2131361934;
 			
 			// aapt resource value: 0x7f0a000c
 			public const int textinput_counter = 2131361804;
@@ -2774,8 +2792,8 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a000d
 			public const int textinput_error = 2131361805;
 			
-			// aapt resource value: 0x7f0a009d
-			public const int time = 2131361949;
+			// aapt resource value: 0x7f0a00a3
+			public const int time = 2131361955;
 			
 			// aapt resource value: 0x7f0a0051
 			public const int title = 2131361873;
@@ -2792,8 +2810,8 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a005d
 			public const int topPanel = 2131361885;
 			
-			// aapt resource value: 0x7f0a007e
-			public const int touch_outside = 2131361918;
+			// aapt resource value: 0x7f0a0085
+			public const int touch_outside = 2131361925;
 			
 			// aapt resource value: 0x7f0a000a
 			public const int transition_current_scene = 2131361802;
@@ -2801,11 +2819,11 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a000b
 			public const int transition_scene_layoutid_cache = 2131361803;
 			
-			// aapt resource value: 0x7f0a00af
-			public const int txtforgotpass = 2131361967;
+			// aapt resource value: 0x7f0a00b5
+			public const int txtforgotpass = 2131361973;
 			
-			// aapt resource value: 0x7f0a00b0
-			public const int txtlogin = 2131361968;
+			// aapt resource value: 0x7f0a00b6
+			public const int txtlogin = 2131361974;
 			
 			// aapt resource value: 0x7f0a0009
 			public const int up = 2131361801;
@@ -2816,8 +2834,8 @@ namespace FbaseAuth
 			// aapt resource value: 0x7f0a000e
 			public const int view_offset_helper = 2131361806;
 			
-			// aapt resource value: 0x7f0a00b1
-			public const int visible = 2131361969;
+			// aapt resource value: 0x7f0a00b7
+			public const int visible = 2131361975;
 			
 			// aapt resource value: 0x7f0a0014
 			public const int wide = 2131361812;
