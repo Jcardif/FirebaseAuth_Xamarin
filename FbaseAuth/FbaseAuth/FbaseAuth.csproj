@@ -110,7 +110,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Activities\Dashboard.cs" />
+    <Compile Include="Activities\ForgotPass.cs" />
     <Compile Include="Activities\MainActivity.cs" />
+    <Compile Include="Activities\SignUp.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
