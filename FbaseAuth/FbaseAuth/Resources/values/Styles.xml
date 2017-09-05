@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="Firebase" parent="Firebase.Base"></style>
+  <style name="Firebase.Base" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">#2196F3</item>
+    <item name="colorPrimaryDark">#1975D2</item>
+    <item name="colorAccent">#448AFF</item>
+  </style>
+</resources>
