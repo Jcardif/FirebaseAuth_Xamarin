@@ -12,7 +12,7 @@ using Android.Support.Design.Widget;
 
 namespace FbaseAuth
 {
-    [Activity(Label = "FbaseAuth", MainLauncher = true, Icon = "@drawable/icon", Theme = "@style/Firebase")]
+    [Activity(MainLauncher = true, Icon = "@drawable/icon", Theme = "@style/Firebase")]
     public class MainActivity : AppCompatActivity, IOnClickListener, IOnCompleteListener
     {
         Button btnLogin;

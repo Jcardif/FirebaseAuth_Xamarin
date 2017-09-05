@@ -12,19 +12,11 @@
       android:layout_height="100dp"
       android:layout_width="100dp" />
 
-  <TextView
-      android:layout_below="@+id/imgLogo"
-      android:id="@+id/forgotPasstxt "
-      android:text="Enter your email addresss to have instructions to reset your password sent to you"
-      android:layout_centerHorizontal="true"
-      android:color="?attr/colorPrimaryDark"
-      style="@style/Widget.AppCompat.Button.Borderless"
-      android:layout_height="wrap_content"
-      android:layout_width="wrap_content" />
+
 
 
   <android.support.design.widget.TextInputLayout
-      android:layout_below="@+id/forgotPass"
+      android:layout_below="@+id/imgLogo"
       android:id="@+id/forgotpass_input"
       android:layout_width="match_parent"
       android:layout_height="wrap_content">
