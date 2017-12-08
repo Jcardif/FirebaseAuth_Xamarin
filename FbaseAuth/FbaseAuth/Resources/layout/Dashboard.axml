@@ -4,56 +4,60 @@
     android:padding="16dp"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-  <ImageView
-      android:id="@+id/imgLogo"
-      android:layout_alignParentTop="true"
-      android:layout_centerHorizontal="true"
-      android:background="@drawable/logo"
-      android:layout_height="100dp"
-      android:layout_width="100dp" />
-
-  <TextView
-      android:layout_below="@+id/imgLogo"
-      android:id="@+id/dashboardWelcome"
-      android:text="Welcome, User"
-      android:layout_centerHorizontal="true"
-      android:color="?attr/colorPrimaryDark"
-      style="@style/Widget.AppCompat.Button.Borderless"
-      android:layout_height="wrap_content"
-      android:layout_width="wrap_content" />
-  
-  
-  <android.support.design.widget.TextInputLayout
-      android:layout_below="@+id/dashboardWelcome"
-      android:id="@+id/dbNewpassword"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content">
-    <EditText
-        android:id="@+id/newpas"
-        android:hint="New password"
-        android:inputType="textPassword"
-        android:maxLines="1"
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/logo"
+        android:layout_height="100dp"
+        android:layout_width="100dp" />
+    <TextView
+        android:layout_below="@+id/imgLogo"
+        android:id="@+id/dashboardWelcome"
+        android:text="Welcome, User"
+        android:layout_centerHorizontal="true"
+        android:color="?attr/colorPrimaryDark"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content" />
+    <android.support.design.widget.TextInputLayout
+        android:layout_below="@+id/dashboardWelcome"
+        android:id="@+id/dbNewpassword"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-  </android.support.design.widget.TextInputLayout>
- 
- <Button
-      android:layout_below="@+id/dbNewpassword"
-      android:id="@+id/changepass"
-      android:text="Change Password"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:background="#263238"
-      style="@style/Widget.AppCompat.Button.Colored" />
-
-  <Button
-     android:layout_below="@+id/changepass"
-     android:id="@+id/dbLogout"
-     android:text="Logout"
-     android:layout_width="match_parent"
-     android:layout_height="wrap_content"
-     android:background="#263238"
-     style="@style/Widget.AppCompat.Button.Colored" />
-
- 
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/newpas"
+            android:hint="New password"
+            android:inputType="textPassword"
+            android:maxLines="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </android.support.design.widget.TextInputLayout>
+    <Button
+        android:layout_below="@+id/dbNewpassword"
+        android:id="@+id/changepass"
+        android:text="Change Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#263238"
+        style="@style/Widget.AppCompat.Button.Colored" />
+    <Button
+        android:layout_marginTop="8dp"
+        android:layout_below="@+id/changepass"
+        android:id="@+id/dbLogout"
+        android:text="Logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#263238"
+        style="@style/Widget.AppCompat.Button.Colored" />
+    <Button
+      android:clickable="true"
+        android:layout_marginTop="8dp"
+        android:layout_below="@+id/dbLogout"
+        android:id="@+id/dbGetUser"
+        android:text="GetUser"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#263238"
+        style="@style/Widget.AppCompat.Button.Colored" />
 </RelativeLayout>

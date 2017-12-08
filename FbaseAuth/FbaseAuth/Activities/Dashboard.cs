@@ -14,6 +14,7 @@ using Firebase.Auth;
 using static Android.Views.View;
 using Android.Gms.Tasks;
 using Android.Support.Design.Widget;
+using CodeFirebaseUser;
 
 namespace FbaseAuth
 {
@@ -22,7 +23,7 @@ namespace FbaseAuth
     {
         TextView txtwelcome;
         EditText newPass_input;
-        Button btnChangepass, btnLogout;
+        Button btnChangepass, btnLogout, btnGetUser;
         RelativeLayout relativeashboard;
 
         FirebaseAuth auth;
@@ -42,10 +43,12 @@ namespace FbaseAuth
             newPass_input = FindViewById<EditText>(Resource.Id.newpas);
             btnChangepass = FindViewById<Button>(Resource.Id.changepass);
             btnLogout = FindViewById<Button>(Resource.Id.dbLogout);
+            btnGetUser = FindViewById<Button>(Resource.Id.dbGetUser);
             relativeashboard = FindViewById<RelativeLayout>(Resource.Id.relativeDashboard);
 
             btnChangepass.SetOnClickListener(this);
             btnLogout.SetOnClickListener(this);
+            btnGetUser.SetOnClickListener(this);
 
         }
         public void OnClick(View v)
@@ -57,6 +60,11 @@ namespace FbaseAuth
             else if (v.Id == Resource.Id.dbLogout)
             {
                 LogoutUser();
+            }
+            else if (v.Id == Resource.Id.dbGetUser)
+            {
+                FirebaseUserCode userCode = new FirebaseUserCode();
+                Toast.MakeText(this, ""+userCode.email, ToastLength.Long).Show(); 
             }
         }
 
